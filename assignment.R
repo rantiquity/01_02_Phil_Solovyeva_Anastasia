@@ -1,7 +1,7 @@
 #install.packages("gutenbergr")
 library(gutenbergr)
 library(tidyverse)
-
+#проверка#
 works <- gutenberg_works()
 
 # В каждом пункте используйте оператор pipe, не сохраняйте промежуточные результаты!
